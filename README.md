@@ -84,17 +84,14 @@ Para executar o sistema, siga estas etapas:
 - **CSS**: Estilização dos componentes utilizando folhas de estilo CSS.
 - **localStorage**: Armazenamento local para salvar os produtos em estoque.
 
-## Autor
-
-Desenvolvido por [Queriate Silva].
-
 ---
 
 Este projeto é uma demonstração de um sistema de gerenciamento de estoque em React. Sinta-se à vontade para explorar, modificar e utilizar conforme necessário. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
 
 ## Contato
 
-- Autor: Queriate Silva
+##Autor: Queriate Silva
+
 - [GitHub](https://github.com/Queriate)
 - [LinkedIn](https://www.linkedin.com/in/queriate-silva/)
 - Email: queriatejobs@gmail.com
