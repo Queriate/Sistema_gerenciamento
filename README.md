@@ -90,7 +90,7 @@ Este projeto é uma demonstração de um sistema de gerenciamento de estoque em 
 
 ## Contato
 
-##Autor: Queriate Silva
+- Autor: Queriate Silva
 
 - [GitHub](https://github.com/Queriate)
 - [LinkedIn](https://www.linkedin.com/in/queriate-silva/)
