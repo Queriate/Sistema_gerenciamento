@@ -1,0 +1,88 @@
+.estoque-list {
+  width: 60rem;
+}
+
+.estoque-list h2 {
+  font-size: clamp(1.5rem, 2vw, 3rem);
+
+  color: var(--primary-2);
+  margin-bottom: 2rem;
+}
+
+.estoque-list input {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.6rem;
+  border: none;
+  border-radius: .5rem;
+  margin-bottom: 2rem;
+}
+
+.estoque-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.estoque-list li {
+  border: 1px solid rgba(0, 0, 0, .8);
+  background: rgba(0, 0, 0, .6);
+  border-radius: .5rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+
+  font-size: clamp(3.5rem, 4vw, 4rem);
+
+  color: var(--primary-2);
+}
+
+.estoque-list li div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: justify;
+
+  gap: 3rem;
+
+  padding: 2rem;
+}
+
+.estoque-list .buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 80%;
+}
+
+.buttons button {
+  padding: 1rem;
+  font-size: clamp(1rem, 1vw, 1.5rem);
+  background-color: var(--primary-4);
+  color: var(--primary-2);
+  border: none;
+  border-radius: .5rem;
+  cursor: pointer;
+
+  transition: background .3s;
+}
+
+.estoque-list .buttons button:hover{
+  background-color: var(--primary-5);
+}
+
+@media (max-width: 600px) {
+  .estoque-list {
+    width: 35rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column;
+  }
+
+  .estoque-list .buttons{
+    width: 80%;
+  }
+}

@@ -1,0 +1,9 @@
+@import '../../global/global.css';
+
+@import 'partials/app-conteiner.css';
+@import 'partials/estoque-list.css';
+@import 'partials/form-control.css';
+@import 'partials/login-form.css';
+@import 'partials/produto-form.css';
+@import 'partials/registration-form.css';
+@import 'partials/botao_logout.css';

@@ -1,0 +1,36 @@
+.App {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-wrap: wrap;
+
+  background: var(--primary-4);
+
+  height: 100vh;
+}
+
+.App h1 {
+  font-size: clamp(1.5rem, 2vw, 3rem);
+  color: var(--primary-2);
+
+  margin: 3rem 0 3rem 0;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: start;
+
+  flex-wrap: wrap;
+
+  gap: 3rem;
+}
+
+@media (max-width: 600px){
+  .container{
+    padding: 3rem;
+  }
+}
+

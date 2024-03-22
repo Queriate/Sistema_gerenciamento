@@ -1,0 +1,9 @@
+/* Importa a fonte */
+@font-face {
+    font-family: 'gracial_bold';
+    src: url('../../files/fonts/GlacialIndifference-Bold.otf');}
+
+    /* Importa a fonte */
+@font-face {
+    font-family: 'gracial_regular';
+    src: url('../../files/fonts/GlacialIndifference-Regular.otf');}
