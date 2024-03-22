@@ -6,6 +6,11 @@ Este é um sistema de gerenciamento de estoque desenvolvido em React. Ele permit
   <img src="src/assets/files/imgs/readme/logando.gif">
 </p>
 
+<p align="center">
+  <img src="src/assets/files/imgs/readme/logout.gif">
+</p>
+
+
 ## Funcionalidades Principais
 
 ### 1. Adicionar Produto
