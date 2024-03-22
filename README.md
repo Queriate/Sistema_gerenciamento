@@ -92,4 +92,12 @@ Desenvolvido por [Queriate Silva].
 
 Este projeto é uma demonstração de um sistema de gerenciamento de estoque em React. Sinta-se à vontade para explorar, modificar e utilizar conforme necessário. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
 
-E-MAIL: queriatejobs@gmail.com
+## Contato
+
+- Autor: Queriate Silva
+- [GitHub](https://github.com/Queriate)
+- [LinkedIn](https://www.linkedin.com/in/queriate-silva/)
+- Email: queriatejobs@gmail.com
+
+---
+
